@@ -17,9 +17,9 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-	title: 'Chisfis - Booking online React Next Template',
-	description: 'Booking online & rental online React Next Template',
-	keywords: 'Chisfis, Booking online, React Next Template',
+	title: 'Limousine Sài Gòn đi Đà Lạt |Bookinh xe Sài Gòn Đà Lạt tốt nhất 2025 | Đặt xe đi Đà Lạt | Dịch vụ thuê xe đi Đà Lạt',
+	description: 'Booking online & rental online Xe limousine Sài Gòn đi Đà Lạt | Danh sách các hãng xe Sài Gòn Đà Lạt tốt nhất 2024 | Đặt xe đi Đà Lạt | Dịch vụ thuê xe đi Đà Lạt',
+	keywords: 'limousine Sài Gòn đi Đà Lạt | Danh sách các hãng xe Sài Gòn Đà Lạt tốt nhất 2024 | Đặt xe đi Đà Lạt | Dịch vụ thuê xe đi Đà Lạt',
 	// viewport:
 	// 	'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no',
 }
