@@ -30,25 +30,25 @@ const SectionOurFeatures: FC<SectionOurFeaturesProps> = ({
         }`}
       >
         <span className="uppercase text-sm text-gray-400 tracking-widest">
-          BENnefits
+        Xe Limousine Đà Lạt - Sài Gòn
         </span>
-        <h2 className="font-semibold text-4xl mt-5">Happening cities </h2>
+        <h2 className="font-semibold text-4xl mt-5">Limousine giường đôi</h2>
 
         <ul className="space-y-10 mt-16">
           <li className="space-y-4">
-            <Badge name="Advertising" />
+            <Badge name="Tư vấn miễn phí" />
             <span className="block text-xl font-semibold">
-              Cost-effective advertising
+            Giá vé xe Limousine Đà Lạt - Sài Gòn; Dịch vụ tour, hotel, thuê xe Đà Lạt
             </span>
             <span className="block mt-5 text-neutral-500 dark:text-neutral-400">
-              With a free listing, you can advertise your rental with no upfront
+            Miễn phí thuê xe máy khi đặt vé khứ hồi
               costs
             </span>
           </li>
           <li className="space-y-4">
-            <Badge color="green" name="Exposure " />
+            <Badge color="green" name="Giá vé " />
             <span className="block text-xl font-semibold">
-              Reach millions with Chisfis
+            Giá vé xe Limousine Venus Đà Lạt là 300.000đ/người/chặng.
             </span>
             <span className="block mt-5 text-neutral-500 dark:text-neutral-400">
               Millions of people are searching for unique places to stay around
@@ -56,13 +56,12 @@ const SectionOurFeatures: FC<SectionOurFeaturesProps> = ({
             </span>
           </li>
           <li className="space-y-4">
-            <Badge color="red" name="Secure" />
+            <Badge color="red" name="Dịch vụ" />
             <span className="block text-xl font-semibold">
-              Secure and simple
+            Dịch vụ
             </span>
             <span className="block mt-5 text-neutral-500 dark:text-neutral-400">
-              A Holiday Lettings listing gives you a secure and easy way to take
-              bookings and payments online
+            Giá xe đã bao gồm nước suối miễn phí, xe trung chuyển trung tâm thành phố Đà Lạt và các dịch vụ khác trên xe.
             </span>
           </li>
         </ul>
